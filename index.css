@@ -1,0 +1,17 @@
+body {
+  background-color: DodgerBlue;
+}
+
+h1 {
+  color: gray;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  background-image: url("paper.gif");
+  background-repeat: repeat-x;
+   background-position: right top;
+   background-attachment: scroll;
+}

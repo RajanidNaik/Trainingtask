@@ -1,0 +1,85 @@
+body{
+    background-image: url("../../yakshagana.jpg")0 0;
+    
+    background-repeat: no-repeat;
+    background-attachment:fixed ;
+    background-size: 100% 100%;
+    background-color: skyblue;
+}
+h1{
+color:royalblue;
+background-color: antiquewhite;
+font-family:sans-serif;
+font-weight:bold;
+text-decoration: underline;
+text-align: center;
+border-style: solid;
+border-bottom-color: lightpink;
+border-top-color: deeppink;
+}
+img{
+    border-style: inset;
+    border-color: aquamarine;
+    height: 300px;
+    width: 50%;
+    position:relative;
+    left:30%;
+    padding: ;
+    
+}
+.intro{
+    color:black;
+    font-size:20px;
+}
+h2{
+    color: grey;
+    background-color: beige;
+}
+.history{
+    color:black;
+    font-size: ;
+   
+}
+h3{
+    color: grey;
+    background-color: beige;  
+  
+}
+ol{
+    margin: 0;
+    padding: 10;
+}
+h4{
+    color:gray;
+    background-color: beige; 
+    border: 3px solid lightpink;
+    padding: 5px;  
+}
+th,td{
+    border:1px solid gray;
+    padding:10px;
+}
+table{
+    border-collapse: collapse;
+    border: 3px solid lightpink;
+    width:100%;
+}
+tr{
+    background-color: floralwhite;
+}
+ul{
+    list-style-type:square;
+}
+p{
+    border:5px ;
+    margin: 10px;
+}
+span{
+    color:chocolate;
+}
+div li{
+    color: blueviolet;
+    position: relative;
+}
+
+
